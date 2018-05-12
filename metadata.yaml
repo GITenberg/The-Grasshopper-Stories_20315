@@ -1,0 +1,30 @@
+_repo: The-Grasshopper-Stories_20315
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doan, Maude Dewey
+    gutenberg_agent_id: '37380'
+    url: http://www.gutenberg.org/2009/agents/37380
+covers:
+- cover_type: archival
+  image_path: 20315-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leavitt, Elizabeth Davis
+    gutenberg_agent_id: '9229'
+    url: http://www.gutenberg.org/2009/agents/9229
+description: ''
+gutenberg_issued: '2007-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: The Grasshopper Stories
+url: http://www.gutenberg.org/ebooks/20315
